@@ -1,0 +1,1842 @@
+{
+  "pochetna": {
+    "all_recipes": [
+      {
+        "id": "5f5eccf3e923d0aca3e7d41c",
+        "recipes": [
+          {
+            "chef_image": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "id": "1f5eccf3e923d0aca3e7d41c",
+            "dish": "Мешана салата",
+            "availability": "vednash",
+            "spicyness_level":"not_spicy",
+            "delivery": true,
+            "allergens": ["морско", "риба", "мед", "глутен", "соја"],
+            "dish_type":"starter",
+            "delivery_day": ["петок", "недела", "сабота", "вторник", "четврток"],
+            "img": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 4,
+            "price": 170,
+            "ingredients": "Парчиња свинско,салати, бургер, месо, печурки, јајца, растителен кашкавал моркови, кромид, сенф, сол, јатки, риба, глутен, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Крсте",
+                "comment": "Многу добро јадење",
+                "stars": 2
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кико",
+                "comment": "Добро",
+                "stars": 3
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Лазар",
+                "comment": "Гурабии од моите соништа! Уживав додека ги конзумирав во мојата омилена рутина, со чај и кафе.",
+                "stars": 2
+              },
+              {
+                "id": 3,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Јордан",
+                "comment": "Не ми се допадна",
+                "stars": 1
+              }
+            ]
+          },
+          {
+            "id": "2f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "dish": "Сникерс десерт",
+            "availability": "utre",
+            "spicyness_level":"not_spicy",
+            "delivery": false,
+            "allergens": ["јатки", "лактоза", "мед", "глутен", "соја"],
+            "dish_type":"dessert",
+            "delivery_day": ["петок", "недела", "вторник", "сабота"],
+            "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 1,
+            "price": 170,
+            "ingredients": " 'Ржано брашно, свеж квасец, кравјо сирење, путер од кравјо млеко, јајца,морска сол, шеќер, праз, сусам, мак, маслиново масло.",
+            "preparation_time": "до 45 мин",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Петар",
+                "comment": "Храната беше вкусна но нарачката доцнеше половина час",
+                "stars": 3
+              }
+            ]
+          },
+          {
+            "id": "3f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "dish": "Шарска плескавица",
+            "availability": "naracka",
+            "spicyness_level":"low",
+            "delivery": false,
+            "allergens": ["јатки", "лактоза", "мед", "глутен", "соја"],
+            "dish_type":"main",
+            "delivery_day": ["петок", "недела", "среда", "вторник", "четврток", "сабота"],
+            "img": "https://images.unsplash.com/photo-1529042410759-befb1204b468?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
+            "total_reviews": 3,
+            "price": 110,
+            "ingredients": "Парчиња свинско месо, печурки,јајца, растителен кашкавал моркови, кромид, сенф, сол, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кристијан",
+                "comment": "Одлично",
+                "stars": 5
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Марија",
+                "comment": "Ми се допадна",
+                "stars": 4
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Маријана",
+                "comment": "Добро",
+                "stars": 3
+              }
+            ]
+          },
+          {
+            "chef_image": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "id": "3331f5eccf3e923d0aca3e7d41c",
+            "dish": "Шеф салата",
+            "availability": "vednash",
+            "spicyness_level":"not_spicy",
+            "delivery": true,
+            "allergens": ["морско", "риба", "мед", "глутен", "соја"],
+            "dish_type":"starter",
+            "delivery_day": ["петок", "недела", "сабота", "вторник", "четврток"],
+            "img": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 4,
+            "price": 170,
+            "ingredients": "Парчиња свинско,салати, бургер, месо, печурки, јајца, растителен кашкавал моркови, кромид, сенф, сол, јатки, риба, глутен, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Крсте",
+                "comment": "Многу добро јадење",
+                "stars": 2
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кико",
+                "comment": "Добро",
+                "stars": 3
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Лазар",
+                "comment": "Гурабии од моите соништа! Уживав додека ги конзумирав во мојата омилена рутина, со чај и кафе.",
+                "stars": 2
+              },
+              {
+                "id": 3,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Јордан",
+                "comment": "Не ми се допадна",
+                "stars": 1
+              }
+            ]
+          },
+          {
+            "id": "4442f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "dish": "Трилече",
+            "availability": "utre",
+            "spicyness_level":"spicy",
+            "delivery": false,
+            "allergens": ["јатки", "лактоза", "мед", "глутен", "соја"],
+            "dish_type":"dessert",
+            "delivery_day": ["петок", "недела", "вторник", "сабота"],
+            "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 1,
+            "price": 170,
+            "ingredients": " 'Ржано брашно, свеж квасец, кравјо сирење, путер од кравјо млеко, јајца,морска сол, шеќер, праз, сусам, мак, маслиново масло.",
+            "preparation_time": "до 45 мин",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Петар",
+                "comment": "Храната беше вкусна но нарачката доцнеше половина час",
+                "stars": 3
+              }
+            ]
+          },
+          {
+            "id": "5553f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "dish": "Плескавица",
+            "availability": "naracka",
+            "spicyness_level":"low",
+            "delivery": false,
+            "allergens": ["јатки", "лактоза", "мед", "глутен", "соја"],
+            "dish_type":"main",
+            "delivery_day": ["петок", "недела", "среда", "вторник", "четврток", "сабота"],
+            "img": "https://images.unsplash.com/photo-1529042410759-befb1204b468?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
+            "total_reviews": 3,
+            "price": 110,
+            "ingredients": "Парчиња свинско месо, печурки,јајца, растителен кашкавал моркови, кромид, сенф, сол, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кристијан",
+                "comment": "Одлично",
+                "stars": 5
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Марија",
+                "comment": "Ми се допадна",
+                "stars": 4
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Маријана",
+                "comment": "Добро",
+                "stars": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5f5eccf3e923d0aca3e7d41d",
+        "recipes": [
+          {
+            "id":"4f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "dish": "Домашен колбас",
+            "availability": "utre",
+            "spicyness_level":"medium",
+            "delivery": false,
+            "allergens": ["јатки", "лактоза", "морско", "риба", "соја"],
+            "dish_type":"main",
+            "delivery_day": ["петок", "недела", "вторник", "четврток", "сабота"],
+            "img": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 4,
+            "price": 110,
+            "ingredients": "Парчиња свинско месо, печурки,јајца, растителен кашкавал моркови, кромид, сенф, сол, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Крсте",
+                "comment": "Многу добро јадење",
+                "stars": 5
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кико",
+                "comment": "Добро",
+                "stars": 3
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Лазар",
+                "comment": "Гурабии од моите соништа! Уживав додека ги конзумирав во мојата омилена рутина, со чај и кафе.",
+                "stars": 2
+              },
+              {
+                "id": 3,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Јордан",
+                "comment": "Не ми се допадна",
+                "stars": 2
+              }
+            ]
+          },
+          {
+            "id": "5f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "dish": "Гурабии",
+            "availability": "vednash",
+            "spicyness_level":"not_spicy",
+            "delivery": true,
+            "allergens": ["јатки", "лактоза", "морско", "риба", "мед"],
+            "dish_type":"dessert",
+            "delivery_day": ["петок", "недела", "понеделник", "четврток", "сабота"],
+            "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 1,
+            "price": 150,
+            "ingredients": " 'Ржано брашно, свеж квасец, кравјо сирење,глутен, морско, путер од кравјо млеко, јајца, морска сол, шеќер, праз, сусам, мак, маслиново масло.",
+            "preparation_time": "до 45 мин",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Петар",
+                "comment": "Храната беше вкусна но нарачката доцнеше половина час",
+                "stars": 3
+              }
+            ]
+          },
+          {
+            "id": "6f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "dish": "Полнети пиперки",
+            "availability": "naracka",
+            "spicyness_level":"not_spicy",
+            "delivery": false,
+            "allergens": ["мед", "глутен", "соја"],
+            "dish_type":"main",
+            "delivery_day": ["петок", "недела", "понеделник", "вторник", "четврток", "сабота"],
+            "img": "https://images.unsplash.com/photo-1529042410759-befb1204b468?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
+            "total_reviews": 3,
+            "price": 110,
+            "ingredients": "Парчиња свинско месо, печурки,јајца, растителен кашкавал моркови, кромид, сенф, сол, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кристијан",
+                "comment": "Одлично",
+                "stars": 5
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Марија",
+                "comment": "Ми се допадна",
+                "stars": 4
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Маријана",
+                "comment": "Добро",
+                "stars": 3
+              }
+            ]
+          },
+          {
+            "id":"3334f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "dish": "Ќебапчиња",
+            "availability": "utre",
+            "spicyness_level":"medium",
+            "delivery": false,
+            "allergens": ["јатки", "лактоза", "морско", "риба", "соја"],
+            "dish_type":"main",
+            "delivery_day": ["петок", "недела", "вторник", "четврток", "сабота"],
+            "img": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 4,
+            "price": 110,
+            "ingredients": "Парчиња свинско месо, печурки,јајца, растителен кашкавал моркови, кромид, сенф, сол, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Крсте",
+                "comment": "Многу добро јадење",
+                "stars": 5
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кико",
+                "comment": "Добро",
+                "stars": 3
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Лазар",
+                "comment": "Гурабии од моите соништа! Уживав додека ги конзумирав во мојата омилена рутина, со чај и кафе.",
+                "stars": 2
+              },
+              {
+                "id": 3,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Јордан",
+                "comment": "Не ми се допадна",
+                "stars": 2
+              }
+            ]
+          },
+          {
+            "id": "4445f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "dish": "Мусака",
+            "availability": "vednash",
+            "spicyness_level":"not_spicy",
+            "delivery": true,
+            "allergens": ["јатки", "лактоза", "морско", "риба", "мед"],
+            "dish_type":"main",
+            "delivery_day": ["петок", "недела", "понеделник", "четврток", "сабота"],
+            "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 1,
+            "price": 150,
+            "ingredients": " 'Ржано брашно, свеж квасец, кравјо сирење,глутен, морско, путер од кравјо млеко, јајца, морска сол, шеќер, праз, сусам, мак, маслиново масло.",
+            "preparation_time": "до 45 мин",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Петар",
+                "comment": "Храната беше вкусна но нарачката доцнеше половина час",
+                "stars": 3
+              }
+            ]
+          },
+          {
+            "id": "5556f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "dish": "Цезар салата",
+            "availability": "naracka",
+            "spicyness_level":"not_spicy",
+            "delivery": false,
+            "allergens": ["мед", "глутен", "соја"],
+            "dish_type":"starter",
+            "delivery_day": ["петок", "недела", "понеделник", "вторник", "четврток", "сабота"],
+            "img": "https://images.unsplash.com/photo-1529042410759-befb1204b468?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
+            "total_reviews": 3,
+            "price": 110,
+            "ingredients": "Парчиња свинско месо, печурки,јајца, растителен кашкавал моркови, кромид, сенф, сол, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кристијан",
+                "comment": "Одлично",
+                "stars": 5
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Марија",
+                "comment": "Ми се допадна",
+                "stars": 4
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Маријана",
+                "comment": "Добро",
+                "stars": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5f5eccf3e923d0aca3e7d42c",
+        "recipes": [
+          {
+            "id": "7f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1148&q=80",
+            "dish": "Боранија",
+            "availability": "vednash",
+            "spicyness_level":"low",
+            "delivery": false,
+            "allergens": ["јатки", "морско", "соја"],
+            "dish_type":"main",
+            "delivery_day": ["петок", "понеделник", "вторник", "четврток", "сабота"],
+            "img": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 4,
+            "price": 110,
+            "ingredients": "Парчиња свинско месо, јатки, печурки,јајца, растителен кашкавал моркови, соја,риба, кромид, сенф, сол, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Крсте",
+                "comment": "Многу добро јадење",
+                "stars": 2
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кико",
+                "comment": "Добро",
+                "stars": 3
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Лазар",
+                "comment": "Гурабии од моите соништа! Уживав додека ги конзумирав во мојата омилена рутина, со чај и кафе.",
+                "stars": 2
+              },
+              {
+                "id": 3,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Јордан",
+                "comment": "Не ми се допадна",
+                "stars": 1
+              }
+            ]
+          },
+          {
+            "id": "8f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1148&q=80",
+            "dish": "Печени макарони во рерна",
+            "availability": "vednash",
+            "spicyness_level":"not_spicy",
+            "delivery": true,
+            "allergens": ["јатки", "риба", "мед", "глутен", "соја"],
+            "dish_type":"dessert",
+            "delivery_day": ["недела", "вторник", "сабота"],
+            "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 1,
+            "price": 170,
+            "ingredients": " 'Ржано брашно, свеж квасец, јатки, кравјо сирење, путер од кравјо млеко, јајца,морска сол, шеќер, праз, сусам, мак, маслиново масло.",
+            "preparation_time": "до 45 мин",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Петар",
+                "comment": "Храната беше вкусна но нарачката доцнеше половина час",
+                "stars": 3
+              }
+            ]
+          },
+          {
+            "id": "9f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1148&q=80",
+            "dish": "Чаден лосос",
+            "availability": "vednash",
+            "spicyness_level":"not_spicy",
+            "delivery": false,
+            "allergens": ["јатки", "глутен", "соја"],
+            "dish_type":"starter",
+            "delivery_day": ["петок", "четврток", "вторник", "сабота"],
+            "img": "https://images.unsplash.com/photo-1529042410759-befb1204b468?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
+            "total_reviews": 3,
+            "price": 110,
+            "ingredients": "Парчиња свинско месо, јатки, печурки,јајца, растителен кашкавал моркови, кромид, сенф, сол, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кристијан",
+                "comment": "Одлично",
+                "stars": 5
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Марија",
+                "comment": "Ми се допадна",
+                "stars": 4
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Маријана",
+                "comment": "Добро",
+                "stars": 3
+              }
+            ]
+          },
+          {
+            "id": "3337f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1148&q=80",
+            "dish": "Чомлек",
+            "availability": "vednash",
+            "spicyness_level":"low",
+            "delivery": false,
+            "allergens": ["јатки", "морско", "соја"],
+            "dish_type":"dessert",
+            "delivery_day": ["петок", "понеделник", "вторник", "четврток", "сабота"],
+            "img": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 4,
+            "price": 110,
+            "ingredients": "Парчиња свинско месо, јатки, печурки,јајца, растителен кашкавал моркови, соја,риба, кромид, сенф, сол, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Крсте",
+                "comment": "Многу добро јадење",
+                "stars": 2
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кико",
+                "comment": "Добро",
+                "stars": 3
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Лазар",
+                "comment": "Гурабии од моите соништа! Уживав додека ги конзумирав во мојата омилена рутина, со чај и кафе.",
+                "stars": 2
+              },
+              {
+                "id": 3,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Јордан",
+                "comment": "Не ми се допадна",
+                "stars": 1
+              }
+            ]
+          },
+          {
+            "id": "4448f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1148&q=80",
+            "dish": "Паста",
+            "availability": "vednash",
+            "spicyness_level":"not_spicy",
+            "delivery": true,
+            "allergens": ["јатки", "риба", "мед", "глутен", "соја"],
+            "dish_type":"dessert",
+            "delivery_day": ["недела", "вторник", "сабота"],
+            "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 1,
+            "price": 170,
+            "ingredients": " 'Ржано брашно, свеж квасец, јатки, кравјо сирење, путер од кравјо млеко, јајца,морска сол, шеќер, праз, сусам, мак, маслиново масло.",
+            "preparation_time": "до 45 мин",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Петар",
+                "comment": "Храната беше вкусна но нарачката доцнеше половина час",
+                "stars": 3
+              }
+            ]
+          },
+          {
+            "id": "5559f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1148&q=80",
+            "dish": "Риба",
+            "availability": "vednash",
+            "spicyness_level":"not_spicy",
+            "delivery": false,
+            "allergens": ["јатки", "глутен", "соја"],
+            "dish_type":"starter",
+            "delivery_day": ["петок", "четврток", "вторник", "сабота"],
+            "img": "https://images.unsplash.com/photo-1529042410759-befb1204b468?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
+            "total_reviews": 3,
+            "price": 110,
+            "ingredients": "Парчиња свинско месо, јатки, печурки,јајца, растителен кашкавал моркови, кромид, сенф, сол, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кристијан",
+                "comment": "Одлично",
+                "stars": 5
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Марија",
+                "comment": "Ми се допадна",
+                "stars": 4
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Маријана",
+                "comment": "Добро",
+                "stars": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5f5eccf3e923d0aca3e7d333",
+        "recipes": [
+          {
+            "chef_image": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "id": "10f5eccf3e923d0aca3e7d41c",
+            "dish": "Сарма",
+            "availability": "vednash",
+            "spicyness_level":"not_spicy",
+            "delivery": true,
+            "allergens": ["морско", "риба", "мед", "глутен", "соја"],
+            "dish_type":"main",
+            "delivery_day": ["петок", "недела", "сабота", "вторник", "четврток"],
+            "img": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 4,
+            "price": 170,
+            "ingredients": "Парчиња свинско,салати, бургер, месо, печурки, јајца, растителен кашкавал моркови, кромид, сенф, сол, јатки, риба, глутен, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Крсте",
+                "comment": "Многу добро јадење",
+                "stars": 2
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кико",
+                "comment": "Добро",
+                "stars": 3
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Лазар",
+                "comment": "Гурабии од моите соништа! Уживав додека ги конзумирав во мојата омилена рутина, со чај и кафе.",
+                "stars": 2
+              },
+              {
+                "id": 3,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Јордан",
+                "comment": "Не ми се допадна",
+                "stars": 1
+              }
+            ]
+          },
+          {
+            "id": "11f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "dish": "Веганска турлитава",
+            "availability": "utre",
+            "spicyness_level":"not_spicy",
+            "delivery": false,
+            "allergens": ["јатки", "лактоза", "мед", "глутен", "соја"],
+            "dish_type":"main",
+            "delivery_day": ["петок", "недела", "вторник", "сабота"],
+            "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 1,
+            "price": 170,
+            "ingredients": " 'Ржано брашно, свеж квасец, кравјо сирење, путер од кравјо млеко, јајца,морска сол, шеќер, праз, сусам, мак, маслиново масло.",
+            "preparation_time": "до 45 мин",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Петар",
+                "comment": "Храната беше вкусна но нарачката доцнеше половина час",
+                "stars": 3
+              }
+            ]
+          },
+          {
+            "id": "12f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "dish": "Пица",
+            "availability": "naracka",
+            "spicyness_level":"not_spicy",
+            "delivery": false,
+            "allergens": ["јатки", "лактоза", "мед", "глутен", "соја"],
+            "dish_type":"starter",
+            "delivery_day": ["петок", "недела", "среда", "вторник", "четврток", "сабота"],
+            "img": "https://images.unsplash.com/photo-1529042410759-befb1204b468?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
+            "total_reviews": 3,
+            "price": 110,
+            "ingredients": "Парчиња свинско месо, печурки,јајца, растителен кашкавал моркови, кромид, сенф, сол, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кристијан",
+                "comment": "Одлично",
+                "stars": 5
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Марија",
+                "comment": "Ми се допадна",
+                "stars": 4
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Маријана",
+                "comment": "Добро",
+                "stars": 3
+              }
+            ]
+          },
+          {
+            "chef_image": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "id": "33310f5eccf3e923d0aca3e7d41c",
+            "dish": "Пилешко со ориз",
+            "availability": "vednash",
+            "spicyness_level":"not_spicy",
+            "delivery": true,
+            "allergens": ["морско", "риба", "мед", "глутен", "соја"],
+            "dish_type":"main",
+            "delivery_day": ["петок", "недела", "сабота", "вторник", "четврток"],
+            "img": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 4,
+            "price": 170,
+            "ingredients": "Парчиња свинско,салати, бургер, месо, печурки, јајца, растителен кашкавал моркови, кромид, сенф, сол, јатки, риба, глутен, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Крсте",
+                "comment": "Многу добро јадење",
+                "stars": 2
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кико",
+                "comment": "Добро",
+                "stars": 3
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Лазар",
+                "comment": "Гурабии од моите соништа! Уживав додека ги конзумирав во мојата омилена рутина, со чај и кафе.",
+                "stars": 2
+              },
+              {
+                "id": 3,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Јордан",
+                "comment": "Не ми се допадна",
+                "stars": 1
+              }
+            ]
+          },
+          {
+            "id": "44411f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "dish": "Веганска сарма",
+            "availability": "utre",
+            "spicyness_level":"not_spicy",
+            "delivery": false,
+            "allergens": ["јатки", "лактоза", "мед", "глутен", "соја"],
+            "dish_type":"main",
+            "delivery_day": ["петок", "недела", "вторник", "сабота"],
+            "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 1,
+            "price": 170,
+            "ingredients": " 'Ржано брашно, свеж квасец, кравјо сирење, путер од кравјо млеко, јајца,морска сол, шеќер, праз, сусам, мак, маслиново масло.",
+            "preparation_time": "до 45 мин",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Петар",
+                "comment": "Храната беше вкусна но нарачката доцнеше половина час",
+                "stars": 3
+              }
+            ]
+          },
+          {
+            "id": "55512f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "dish": "Домашна пица",
+            "availability": "naracka",
+            "spicyness_level":"not_spicy",
+            "delivery": false,
+            "allergens": ["јатки", "лактоза", "мед", "глутен", "соја"],
+            "dish_type":"starter",
+            "delivery_day": ["петок", "недела", "среда", "вторник", "четврток", "сабота"],
+            "img": "https://images.unsplash.com/photo-1529042410759-befb1204b468?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
+            "total_reviews": 3,
+            "price": 110,
+            "ingredients": "Парчиња свинско месо, печурки,јајца, растителен кашкавал моркови, кромид, сенф, сол, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кристијан",
+                "comment": "Одлично",
+                "stars": 5
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Марија",
+                "comment": "Ми се допадна",
+                "stars": 4
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Маријана",
+                "comment": "Добро",
+                "stars": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5f5eccf3e923d0aca3e7d444",
+        "recipes": [
+          {
+            "id":"13f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "dish": "Ќифлички",
+            "availability": "utre",
+            "spicyness_level":"not_spicy",
+            "delivery": false,
+            "allergens": ["јатки", "лактоза", "морско", "риба", "соја"],
+            "dish_type":"dessert",
+            "delivery_day": ["петок", "недела", "вторник", "четврток", "сабота"],
+            "img": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 4,
+            "price": 110,
+            "ingredients": "Парчиња свинско месо, печурки,јајца, растителен кашкавал моркови, кромид, сенф, сол, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Крсте",
+                "comment": "Многу добро јадење",
+                "stars": 5
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кико",
+                "comment": "Добро",
+                "stars": 3
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Лазар",
+                "comment": "Гурабии од моите соништа! Уживав додека ги конзумирав во мојата омилена рутина, со чај и кафе.",
+                "stars": 2
+              },
+              {
+                "id": 3,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Јордан",
+                "comment": "Не ми се допадна",
+                "stars": 2
+              }
+            ]
+          },
+          {
+            "id": "14f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "dish": "Ризото",
+            "availability": "vednash",
+            "spicyness_level":"not_spicy",
+            "delivery": true,
+            "allergens": ["јатки", "лактоза", "морско", "риба", "мед"],
+            "dish_type":"main",
+            "delivery_day": ["петок", "недела", "понеделник", "четврток", "сабота"],
+            "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 1,
+            "price": 150,
+            "ingredients": " 'Ржано брашно, свеж квасец, кравјо сирење,глутен, морско, путер од кравјо млеко, јајца, морска сол, шеќер, праз, сусам, мак, маслиново масло.",
+            "preparation_time": "до 45 мин",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Петар",
+                "comment": "Храната беше вкусна но нарачката доцнеше половина час",
+                "stars": 3
+              }
+            ]
+          },
+          {
+            "id": "15f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "dish": "Компир манџа",
+            "availability": "naracka",
+            "spicyness_level":"not_spicy",
+            "delivery": false,
+            "allergens": ["мед", "глутен", "соја"],
+            "dish_type":"starter",
+            "delivery_day": ["петок", "недела", "понеделник", "вторник", "четврток", "сабота"],
+            "img": "https://images.unsplash.com/photo-1529042410759-befb1204b468?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
+            "total_reviews": 3,
+            "price": 110,
+            "ingredients": "Парчиња свинско месо, печурки,јајца, растителен кашкавал моркови, кромид, сенф, сол, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кристијан",
+                "comment": "Одлично",
+                "stars": 5
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Марија",
+                "comment": "Ми се допадна",
+                "stars": 4
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Маријана",
+                "comment": "Добро",
+                "stars": 3
+              }
+            ]
+          },
+          {
+            "id":"33313f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "dish": "Ќифлички со сирење",
+            "availability": "utre",
+            "spicyness_level":"not_spicy",
+            "delivery": false,
+            "allergens": ["јатки", "лактоза", "морско", "риба", "соја"],
+            "dish_type":"dessert",
+            "delivery_day": ["петок", "недела", "вторник", "четврток", "сабота"],
+            "img": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 4,
+            "price": 110,
+            "ingredients": "Парчиња свинско месо, печурки,јајца, растителен кашкавал моркови, кромид, сенф, сол, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Крсте",
+                "comment": "Многу добро јадење",
+                "stars": 5
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кико",
+                "comment": "Добро",
+                "stars": 3
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Лазар",
+                "comment": "Гурабии од моите соништа! Уживав додека ги конзумирав во мојата омилена рутина, со чај и кафе.",
+                "stars": 2
+              },
+              {
+                "id": 3,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Јордан",
+                "comment": "Не ми се допадна",
+                "stars": 2
+              }
+            ]
+          },
+          {
+            "id": "44414f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "dish": "Гулаш",
+            "availability": "vednash",
+            "spicyness_level":"not_spicy",
+            "delivery": true,
+            "allergens": ["јатки", "лактоза", "морско", "риба", "мед"],
+            "dish_type":"main",
+            "delivery_day": ["петок", "недела", "понеделник", "четврток", "сабота"],
+            "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 1,
+            "price": 150,
+            "ingredients": " 'Ржано брашно, свеж квасец, кравјо сирење,глутен, морско, путер од кравјо млеко, јајца, морска сол, шеќер, праз, сусам, мак, маслиново масло.",
+            "preparation_time": "до 45 мин",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Петар",
+                "comment": "Храната беше вкусна но нарачката доцнеше половина час",
+                "stars": 3
+              }
+            ]
+          },
+          {
+            "id": "55515f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "dish": "Мешана скара",
+            "availability": "naracka",
+            "spicyness_level":"not_spicy",
+            "delivery": false,
+            "allergens": ["мед", "глутен", "соја"],
+            "dish_type":"main",
+            "delivery_day": ["петок", "недела", "понеделник", "вторник", "четврток", "сабота"],
+            "img": "https://images.unsplash.com/photo-1529042410759-befb1204b468?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
+            "total_reviews": 3,
+            "price": 110,
+            "ingredients": "Парчиња свинско месо, печурки,јајца, растителен кашкавал моркови, кромид, сенф, сол, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кристијан",
+                "comment": "Одлично",
+                "stars": 5
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Марија",
+                "comment": "Ми се допадна",
+                "stars": 4
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Маријана",
+                "comment": "Добро",
+                "stars": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5f5eccf3e923d0aca3e7d555",
+        "recipes": [
+          {
+            "id": "16f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1148&q=80",
+            "dish": "Суши",
+            "availability": "vednash",
+            "spicyness_level":"not_spicy",
+            "delivery": false,
+            "allergens": ["јатки", "морско", "соја"],
+            "dish_type":"dessert",
+            "delivery_day": ["петок", "понеделник", "вторник", "четврток", "сабота"],
+            "img": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 4,
+            "price": 110,
+            "ingredients": "Парчиња свинско месо, јатки, печурки,јајца, растителен кашкавал моркови, соја,риба, кромид, сенф, сол, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Крсте",
+                "comment": "Многу добро јадење",
+                "stars": 2
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кико",
+                "comment": "Добро",
+                "stars": 3
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Лазар",
+                "comment": "Гурабии од моите соништа! Уживав додека ги конзумирав во мојата омилена рутина, со чај и кафе.",
+                "stars": 2
+              },
+              {
+                "id": 3,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Јордан",
+                "comment": "Не ми се допадна",
+                "stars": 1
+              }
+            ]
+          },
+          {
+            "id": "17f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1148&q=80",
+            "dish": "Печен крап",
+            "availability": "vednash",
+            "spicyness_level":"not_spicy",
+            "delivery": true,
+            "allergens": ["јатки", "риба", "мед", "глутен", "соја"],
+            "dish_type":"main",
+            "delivery_day": ["недела", "вторник", "сабота"],
+            "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 1,
+            "price": 170,
+            "ingredients": " 'Ржано брашно, свеж квасец, јатки, кравјо сирење, путер од кравјо млеко, јајца,морска сол, шеќер, праз, сусам, мак, маслиново масло.",
+            "preparation_time": "до 45 мин",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Петар",
+                "comment": "Храната беше вкусна но нарачката доцнеше половина час",
+                "stars": 3
+              }
+            ]
+          },
+          {
+            "id": "18f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1148&q=80",
+            "dish": "Пита со спанаќ",
+            "availability": "vednash",
+            "spicyness_level":"not_spicy",
+            "delivery": false,
+            "allergens": ["јатки", "глутен", "соја"],
+            "dish_type":"main",
+            "delivery_day": ["петок", "четврток", "вторник", "сабота"],
+            "img": "https://images.unsplash.com/photo-1529042410759-befb1204b468?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
+            "total_reviews": 3,
+            "price": 110,
+            "ingredients": "Парчиња свинско месо, јатки, печурки,јајца, растителен кашкавал моркови, кромид, сенф, сол, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кристијан",
+                "comment": "Одлично",
+                "stars": 5
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Марија",
+                "comment": "Ми се допадна",
+                "stars": 4
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Маријана",
+                "comment": "Добро",
+                "stars": 3
+              }
+            ]
+          },
+          {
+            "id": "33316f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1148&q=80",
+            "dish": "Ризото со печурки",
+            "availability": "vednash",
+            "spicyness_level":"not_spicy",
+            "delivery": false,
+            "allergens": ["јатки", "морско", "соја"],
+            "dish_type":"dessert",
+            "delivery_day": ["петок", "понеделник", "вторник", "четврток", "сабота"],
+            "img": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 4,
+            "price": 110,
+            "ingredients": "Парчиња свинско месо, јатки, печурки,јајца, растителен кашкавал моркови, соја,риба, кромид, сенф, сол, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Крсте",
+                "comment": "Многу добро јадење",
+                "stars": 2
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кико",
+                "comment": "Добро",
+                "stars": 3
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Лазар",
+                "comment": "Гурабии од моите соништа! Уживав додека ги конзумирав во мојата омилена рутина, со чај и кафе.",
+                "stars": 2
+              },
+              {
+                "id": 3,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Јордан",
+                "comment": "Не ми се допадна",
+                "stars": 1
+              }
+            ]
+          },
+          {
+            "id": "44417f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1148&q=80",
+            "dish": "Печена пастрмка",
+            "availability": "vednash",
+            "spicyness_level":"not_spicy",
+            "delivery": true,
+            "allergens": ["јатки", "риба", "мед", "глутен", "соја"],
+            "dish_type":"starter",
+            "delivery_day": ["недела", "вторник", "сабота"],
+            "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "total_reviews": 1,
+            "price": 170,
+            "ingredients": " 'Ржано брашно, свеж квасец, јатки, кравјо сирење, путер од кравјо млеко, јајца,морска сол, шеќер, праз, сусам, мак, маслиново масло.",
+            "preparation_time": "до 45 мин",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Петар",
+                "comment": "Храната беше вкусна но нарачката доцнеше половина час",
+                "stars": 3
+              }
+            ]
+          },
+          {
+            "id": "55518f5eccf3e923d0aca3e7d41c",
+            "chef_image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1148&q=80",
+            "dish": "Пита со сирење",
+            "availability": "vednash",
+            "spicyness_level":"not_spicy",
+            "delivery": false,
+            "allergens": ["јатки", "глутен", "соја"],
+            "dish_type":"main",
+            "delivery_day": ["петок", "четврток", "вторник", "сабота"],
+            "img": "https://images.unsplash.com/photo-1529042410759-befb1204b468?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
+            "total_reviews": 3,
+            "price": 110,
+            "ingredients": "Парчиња свинско месо, јатки, печурки,јајца, растителен кашкавал моркови, кромид, сенф, сол, оригано, магдонос, маслиново масло.",
+            "preparation_time": "до 1 час",
+            "recipe_reviews": [
+              {
+                "id": 0,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Кристијан",
+                "comment": "Одлично",
+                "stars": 5
+              },
+              {
+                "id": 1,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Марија",
+                "comment": "Ми се допадна",
+                "stars": 4
+              },
+              {
+                "id": 2,
+                "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+                "author": "Маријана",
+                "comment": "Добро",
+                "stars": 3
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "chefs": [
+      {
+        "total_reviews": 4,
+        "about_chef_desc": "Израснав со традиционалната храна која секојдневно ни ја приготвуваше мајка ми во семејството. Оттаму и мојата љубов и желба да ја продолжам фамилијарната традиција, притоа додавајќи намирници и зачини кои доловуваат уникатен вкус на секој оброк кој го приготвувам. Оттаму и мојата љубов и желба да ја продолжам фамилијарната традиција, притоа додавајќи намирници и зачини кои доловуваат уникатен вкус на секој оброк кој го приготвувам.",
+        "name": "Елена Петков",
+        "gender":"female",
+        "phone": "08145290260",
+        "image": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "address": "Никола Карев Гевгелија",
+        "slug": ["кето", "веганска", "медитеранска", "грчка"],
+        "email": "foodfusion@gmail.com",
+        "id": "5f5eccf3e923d0aca3e7d41c",
+        "reviewsList": [
+          {
+            "id": 0,
+            "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+            "author": "Крсте",
+            "comment": "Зелникот беше премногу вкусен. Ме потсети на вкусот на питите кои ми ги правеше во детсвото баба ми. Дефинитивно ќе порачам повторно!",
+            "stars": 3
+          },
+          {
+            "id": 1,
+            "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+            "author": "Кико",
+            "comment": "Ајварот е врв од вкус! Го препорачав веќе на моите пријатели!",
+            "stars": 3
+          },
+          {
+            "id": 2,
+            "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+            "author": "Лазар",
+            "comment": "Гурабии од моите соништа! Уживав додека ги конзумирав во мојата омилена рутина, со чај и кафе.",
+            "stars": 2
+          },
+          {
+            "id": 3,
+            "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+            "author": "Јордан",
+            "comment": "Ме потсети на вкусот на питите кои ми ги правеше во детсвото баба ми. Дефинитивно ќе порачам повторно!",
+            "stars": 1
+          }
+        ]
+      },
+      {
+        "total_reviews": 1,
+        "about_chef_desc": "Израснав со традиционалната храна која секојдневно ни ја приготвуваше мајка ми во семејството. Оттаму и мојата љубов и желба да ја продолжам фамилијарната традиција, притоа додавајќи намирници и зачини кои доловуваат уникатен вкус на секој оброк кој го приготвувам. Оттаму и мојата љубов и желба да ја продолжам фамилијарната традиција, притоа додавајќи намирници и зачини кои доловуваат уникатен вкус на секој оброк кој го приготвувам.",
+        "name": "Кристина Марковска",
+        "gender":"female",
+        "phone": "08145290260",
+        "image": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "address": "Партизански Одреди Скопје",
+        "slug": ["традиционална", "грчка", "веганска"],
+        "email": "foodfusion@gmail.com",
+        "id": "5f5eccf3e923d0aca3e7d41d",
+        "reviewsList": [
+          {
+            "id": 0,
+            "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+            "author": "Петар",
+            "comment": "Храната беше вкусна но нарачката доцнеше половина час",
+            "stars": 3
+          }
+        ]
+      },
+      {
+        "total_reviews": 3,
+        "about_chef_desc": "Израснав со традиционалната храна која секојдневно ни ја приготвуваше мајка ми во семејството. Оттаму и мојата љубов и желба да ја продолжам фамилијарната традиција, притоа додавајќи намирници и зачини кои доловуваат уникатен вкус на секој оброк кој го приготвувам. Оттаму и мојата љубов и желба да ја продолжам фамилијарната традиција, притоа додавајќи намирници и зачини кои доловуваат уникатен вкус на секој оброк кој го приготвувам.",
+        "name": "Петар Ристевски",
+        "gender":"male",
+        "phone": "08145290260",
+        "image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1148&q=80",
+        "address": "Загребска Скопје",
+        "slug": ["традиционална", "италијанска", "веганска"],
+        "email": "foodfusion@gmail.com",
+        "id": "5f5eccf3e923d0aca3e7d42c",
+        "reviewsList": [
+          {
+            "id": 0,
+            "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+            "author": "Кристијан",
+            "comment": "Одлично",
+            "stars": 5
+          },
+          {
+            "id": 1,
+            "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+            "author": "Марија",
+            "comment": "Ми се допадна",
+            "stars": 3
+          },
+          {
+            "id": 2,
+            "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+            "author": "Маријана",
+            "comment": "Добро",
+            "stars": 3
+          }
+        ]
+      },
+      {
+        "total_reviews": 4,
+        "about_chef_desc": "Израснав со традиционалната храна која секојдневно ни ја приготвуваше мајка ми во семејството. Оттаму и мојата љубов и желба да ја продолжам фамилијарната традиција, притоа додавајќи намирници и зачини кои доловуваат уникатен вкус на секој оброк кој го приготвувам. Оттаму и мојата љубов и желба да ја продолжам фамилијарната традиција, притоа додавајќи намирници и зачини кои доловуваат уникатен вкус на секој оброк кој го приготвувам.",
+        "name": "Марија Ристова",
+        "gender":"female",
+        "phone": "08145290260",
+        "image": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "address": "Трифун Пановски Скопје",
+        "slug": ["традиционална", "вегетаријанска", "мексиканска"],
+        "email": "foodfusion@gmail.com",
+        "id": "5f5eccf3e923d0aca3e7d333",
+        "reviewsList": [
+          {
+            "id": 0,
+            "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+            "author": "Крсте",
+            "comment": "Многу добро јадење",
+            "stars": 2
+          },
+          {
+            "id": 1,
+            "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+            "author": "Кико",
+            "comment": "Добро",
+            "stars": 3
+          },
+          {
+            "id": 2,
+            "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+            "author": "Лазар",
+            "comment": "Гурабии од моите соништа! Уживав додека ги конзумирав во мојата омилена рутина, со чај и кафе.",
+            "stars": 2
+          },
+          {
+            "id": 3,
+            "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+            "author": "Јордан",
+            "comment": "Не ми се допадна",
+            "stars": 1
+          }
+        ]
+      },
+      {
+        "total_reviews": 1,
+        "about_chef_desc": "Израснав со традиционалната храна која секојдневно ни ја приготвуваше мајка ми во семејството. Оттаму и мојата љубов и желба да ја продолжам фамилијарната традиција, притоа додавајќи намирници и зачини кои доловуваат уникатен вкус на секој оброк кој го приготвувам. Оттаму и мојата љубов и желба да ја продолжам фамилијарната традиција, притоа додавајќи намирници и зачини кои доловуваат уникатен вкус на секој оброк кој го приготвувам.",
+        "name": "Зорица Илиева",
+        "gender":"female",
+        "phone": "08145290260",
+        "image": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "address": "Орце Николов Скопје",
+        "slug": ["традиционална", "вегетаријанска", "веганска"],
+        "email": "foodfusion@gmail.com",
+        "id": "5f5eccf3e923d0aca3e7d444",
+        "reviewsList": [
+          {
+            "id": 0,
+            "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+            "author": "Петар",
+            "comment": "Храната беше вкусна но нарачката доцнеше половина час",
+            "stars": 3
+          }
+        ]
+      },
+      {
+        "total_reviews": 3,
+        "about_chef_desc": "Израснав со традиционалната храна која секојдневно ни ја приготвуваше мајка ми во семејството. Оттаму и мојата љубов и желба да ја продолжам фамилијарната традиција, притоа додавајќи намирници и зачини кои доловуваат уникатен вкус на секој оброк кој го приготвувам. Оттаму и мојата љубов и желба да ја продолжам фамилијарната традиција, притоа додавајќи намирници и зачини кои доловуваат уникатен вкус на секој оброк кој го приготвувам.",
+        "name": "Ристе Петковски",
+        "gender":"male",
+        "phone": "08145290260",
+        "image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1148&q=80",
+        "address": "Орце Николов Скопје",
+        "slug": ["традиционална", "вегетаријанска", "веганска"],
+        "email": "foodfusion@gmail.com",
+        "id": "5f5eccf3e923d0aca3e7d555",
+        "reviewsList": [
+          {
+            "id": 0,
+            "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+            "author": "Кристијан",
+            "comment": "Одлично",
+            "stars": 5
+          },
+          {
+            "id": 1,
+            "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+            "author": "Марија",
+            "comment": "Ми се допадна",
+            "stars": 4
+          },
+          {
+            "id": 2,
+            "author_img":"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "published_date":"Tue Feb 07 2023 15:54:37 GMT+0100 (Central European Standard Time)",
+            "author": "Маријана",
+            "comment": "Добро",
+            "stars": 3
+          }
+        ]
+      }
+    ],
+    "values": [
+      {
+        "img": "https://images.unsplash.com/photo-1665072204431-b3ba11bd6d06?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+        "title": "Поврзување!",
+        "text": "Вистински луѓе. Автентична љубов."
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "title": "Споделување на радост!",
+        "text": "Уживајте во заедницата преку храна."
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1572715376701-98568319fd0b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+        "title": "Кулинарски можности!",
+        "text": "Зајакнување на домашните готвачи."
+      }
+    ],
+    "gourmans": [
+      {
+        "id": "5f5eccf3e923d0aca3e7d700",
+        "img": "https://images.unsplash.com/photo-1525134479668-1bee5c7c6845?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "name": "Mила Крстева",
+        "age": 32,
+        "comment": "Највкусната храна што сум ја пробала. Едвај чекам да пробам уште многу вкусни јадења."
+      },
+      {
+        "id": "5f5eccf3e923d0aca3e7d701",
+        "img": "https://images.unsplash.com/photo-1564460576398-ef55d99548b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "name": "Лара Миланова",
+        "age": 22,
+        "comment": "Јади домашно е најдобро нешто од мојот студентски живот во Скопје!"
+      },
+      {
+        "id": "5f5eccf3e923d0aca3e7d702",
+        "img": "https://images.unsplash.com/photo-1507591064344-4c6ce005b128?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "name": "Mиле Венковски",
+        "age": 41,
+        "comment": "Ни еден ресторан не може да го замени вкусот на домашно тавче гравче.Браво Јади домашно!!!"
+      }
+    ],
+    "category": [
+      {
+        "main_icon":"/icons/main_icon1.svg",
+        "title": "Сакам да нарачувам храна",
+        "registration_icon": "/icons/registration_icon.svg",
+        "shedule_icon": "/icons/shedule_icon.svg",
+        "order_icon": "/icons/order_icon.svg",
+        "pickup_icon": "/icons/pickup_icon.svg",
+        "registration_text": "Регистрирај се на платформата како клиент!",
+        "shedule_text": "Одбери дали сакаш веќе подготвена храна или одбери датум на кој што сакаш да ти биде подготвена.",
+        "order_text": "Нарачај брзо и лесно преку нашата платформа!",
+        "pickup_text": "Подигни ја нарачката и уживај во вкусот на домашната храна.",
+        "button_text": "Стани клиент"
+      },
+      {
+        "main_icon": "/icons/main_icon2.svg",
+        "title": "Сакам да станам готвач",
+        "registration_icon": "/icons/registration_icon.svg",
+        "shedule_icon": "/icons/shedule_icon.svg",
+        "order_icon": "/icons/order_icon.svg",
+        "pickup_icon": "/icons/pickup_icon.svg",
+        "registration_text": "Регистрирај се на платформата како готвач!",
+        "shedule_text": "Пополни го целосно твојот профил. Прочитај повеќе информации за средување на твојот профил тука.",
+        "order_text": "Примај нарачки и готви вкусни јадења!",
+        "pickup_text": "Испорачувај ги твоите нарачки и заработи.",
+        "button_text": "Стани готвач"
+      }
+    ],
+    "become_chef_reasons": [
+      {
+        "img": "https://images.unsplash.com/photo-1527788263495-3518a5c1c42d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1208&q=80",
+        "title": "Заработи чесно",
+        "text": "Сосема е бесплатна за аплицирање. Многу шефови заработуваат околу 5000 денари неделно."
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "title": "Биди свој готвач",
+        "text": "Дизајнирајте сопствено мени, поставете свои цени и работете кога сакате. Ќе ви помогнеме со плаќања, логистика и поддршка на клиентите."
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1592868859049-dfdcd6c07c29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "title": "Послужи среќни клиенти",
+        "text": "Добијте можност да ги зготвите вашите омилени рецепти и со тоа да усреќите гурмани кои секогаш сакаат да пробаат нешто ново."
+      }
+    ],
+    "gourman_mission": [
+      {
+        "img": "https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "title": "Поврзување!",
+        "text": "Вистински луѓе. Автентична љубов."
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1504022462188-88f023db97bf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "title": "Споделување на радост!",
+        "text": "Уживајте во заедницата преку храна."
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "title": "Кулинарски можности!",
+        "text": "Зајакнување на домашните готвачи."
+      }
+    ],
+    "become_chef_criteria": [
+      {
+        "img": "https://images.unsplash.com/photo-1598928473162-0316ade00bbe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "text": "Вашата кујна треба да биде чиста и уредна!"
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1610913729746-9d5d752daf59?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "text": "Намирниците со кои ја готвите храната треба да се истите што се наведени во вашето мени!"
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1591610160225-861405867ba3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+        "text": "Секогаш треба да ги измиете рацете темелно, пред да започнете со подготвување оброци!"
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1643494847705-74808059bf07?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=715&q=80",
+        "text": "Намирниците треба да се чуваат во соодветни услови! Проверувајте го редовно рокот пред да почнете да готвите."
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1602979677071-1781b7f40023?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+        "text": "Нека вашите миленичиња ве почекаат надвор од кујната. Некои клиенти не сакаат кога се готви во присуство на домашно милениче!"
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1521791136064-7986c2920216?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+        "text": "Бидете секогаш професионални и пријателски насочени кон клиентите кон нарачуваат храна од вас!"
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1543269865-cbf427effbad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "text": "Ние сме едно големо семејство! Секогаш обидете се несогласувањата да ги решите директно со вашите клиенти. Сослушајте ги нивните критики - тоа ќе ве направи подобар готвач!"
+      }
+    ],
+    "become_chef_instructions": [
+      {
+        "title": "Добијте одобрение за готвење",
+        "text": "Регистрирајте се. Прочитајте и пополнете регулативи за безбедност на храната и изберете го вашето мени со јадења.",
+        "svg_icon": "/icons/bc1.svg"
+      },
+      {
+        "title": "Изберете го вашиот распоред",
+        "text": "Изберете ги деновите што сакате да ги готвите. Малку или колку што сакате.",
+        "svg_icon": "/icons/bc2.svg"
+      },
+      {
+        "title": "Подгответе ги вашите нарачки",
+        "text": "Клиентите можат да почнат да нарачуваат од вас на платформата. Освен за нарачки спремни веднаш за во текот на денот, тие ќе нарачаат барем еден ден однапред за да имате доволно време да ги набавите состојките и да ги подготвите нивните јадења.",
+        "svg_icon": "/icons/bc3.svg"
+      },
+      {
+        "title": "Подгответе ги за испорака",
+        "text": "Откако ќе ја подготвите нарачката, известете го клиентот дека истата е спремна за достава.",
+        "svg_icon": "/icons/bc4.svg"
+      },
+      {
+        "title": "Услужете ги вашите клиенти",
+        "text": "Ќе ви помогнеме да го идентификувате најдобриот достапен метод за испорака за вашите клиенти да можат безбедно и навреме да ја добијат храната.",
+        "svg_icon": "/icons/bc5.svg"
+      }
+    ],
+    "become_gourman_instructions": [
+      {
+        "title": "Регистрирај се на платформата како гурман!",
+        "text": "Регистрирајте се! Со ова веќе станувате дел од нашето семејство и имате профил на гурман ",
+        "svg_icon": "/icons/bc1.svg"
+      },
+      {
+        "title": "Нарачајте брзо и лесно!",
+        "text": "Разгледајте ги нашите готвачи, менито коешто го нудат и одберете храна по ваш вкус.",
+        "svg_icon": "/icons/bc2.svg"
+      },
+      {
+        "title": "Јадете домашно!",
+        "text": "Со достава или подигнување - ваш избор! Уживајте во вкусот на домашно приготвена храна од нашите незаменливи готвачи.",
+        "svg_icon": "/icons/bc5.svg"
+      }
+    ]
+  }
+}
